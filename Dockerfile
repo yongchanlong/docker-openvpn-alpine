@@ -1,4 +1,4 @@
-FROM alpine:3.7 as prep
+FROM alpine:3.7
 
 LABEL maintainer="AndrewAI <yongchanlong@gmail.com>" \
 
